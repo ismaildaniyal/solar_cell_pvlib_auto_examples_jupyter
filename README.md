@@ -81,5 +81,12 @@ Feel free to contribute by:
 - Suggesting enhancements
 - Submitting pull requests
 
+## Author
+- **M Ismail Daniyal**
+
+## Contact
+- **GitHub:** [ismaildaniyal](https://github.com/ismaildaniyal)
+- **Email:** ismailsarfraz9345@gmail.com
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
