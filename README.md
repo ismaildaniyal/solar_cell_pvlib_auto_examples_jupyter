@@ -1,4 +1,4 @@
-# README: Solar Cell Simulation and Analysis with PVlib
+# Solar Cell Simulation and Analysis with PVlib
 
 ## Project Description
 This project provides an automated simulation framework for analyzing the performance of solar cells using PVlib. By leveraging the power of Jupyter Notebooks, the project demonstrates various examples and case studies related to photovoltaic systems. The goal is to provide users with insights into solar module behavior, including the effects of shading, tilt, and other environmental factors, through dynamic simulations and visualizations.
